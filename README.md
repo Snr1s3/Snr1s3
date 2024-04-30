@@ -7,9 +7,10 @@
   <a href="https://www.linkedin.com/in/alba-segura-b91491299/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/>
   </a>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Snr1s3)](https://git.io/streak-stats)   
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snr1s3&langs_count=8)
 </div> 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Snr1s3)](https://git.io/streak-stats)   
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snr1s3&langs_count=8)
 
