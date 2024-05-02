@@ -19,7 +19,7 @@
   </a>
   <h4 >or send me an email at alba.segurallamas@gmail.com</h4>
   <h2>🛠 Skills</h2>
-  <h4 >Java, C#, Python, HTML & CSS ,Bash<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"></h4>
+  <h4 >Java, C#, Python, HTML & CSS ,<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">Bash</a></h4>
   <h2>📊 Stats</h2>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snr1s3&langs_count=8)
