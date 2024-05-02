@@ -3,7 +3,15 @@
 </div>  
 <div id="badges" align="center">   
   <h1>Bon Dia 👋 </h1>
-  <h4>My name is Alba and I want to be a software developer</h4>
+  <h4>My name is Alba, and IT student at <img src="https://agora.xtec.cat/iticbcn/wp-content/uploads/usu2389/2023/06/Imagotipo-1.png" width=20> **Intitut TIC Barcelona**.</h4>
+  <h2>🛠 Skills</h2>
+  <h4>Java, C#, Python, HTML & CSS ,Bash</h4>
+  <h2>📫 How to reach me: </h2>
+  <h4>You can connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) or send me an email at your-email@example.com</h4>
+  <h2>🛠 Skills</h2>
+  <h4>Java, C#, Python, HTML & CSS ,Bash</h4>
+ 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h4>
   <a href="https://www.linkedin.com/in/alba-segura-b91491299/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/>
   </a>
