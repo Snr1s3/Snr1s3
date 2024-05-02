@@ -5,7 +5,7 @@
   <h1>Bon Dia 👋 </h1>
   <h4>My name is Alba, and IT student at <img src="https://agora.xtec.cat/iticbcn/wp-content/uploads/usu2389/2023/06/Imagotipo-1.png" width=20> Intitut TIC Barcelona.</h4>
   <h2>:rocket: My Coding Journey</h2>
-  <h4>I fondly remember the good old days when I started my coding journey with Scratch, creating fun and interactive projects. It was a great introduction to the world of programming.</h4>
+  <h4>I started my coding journey with Scratch, creating fun and interactive projects. It was a great introduction to the world of programming.</h4>
   <h4>Then, I ventured into game development with Unity. I loved the process of turning my ideas into playable games.</h4>
   <h4>Now, the journey continues as I delve deeper into the world of coding, learning new languages and technologies. I'm excited about the endless possibilities that lie ahead. Stay tuned for more updates!</h4>
   <h2>📫 How to reach me: </h2>
