@@ -17,7 +17,7 @@
   <h2>🛠 Skills</h2>
   <h4>Java, C#, Python, HTML & CSS ,Bash</h4>
 
-  <h2>🛠 Stats</h2>
+  <h2>📊 Stats</h2>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snr1s3&langs_count=8)
  
