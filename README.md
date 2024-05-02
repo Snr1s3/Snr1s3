@@ -3,7 +3,7 @@
 </div>  
 <div id="badges" align="center">   
   <h1>Bon Dia 👋 </h1>
-  <h4>My name is Alba, and IT student at <img src="https://agora.xtec.cat/iticbcn/wp-content/uploads/usu2389/2023/06/Imagotipo-1.png" width=20> **Intitut TIC Barcelona**.</h4>
+  <h4>My name is Alba, and IT student at <img src="https://agora.xtec.cat/iticbcn/wp-content/uploads/usu2389/2023/06/Imagotipo-1.png" width=20> Intitut TIC Barcelona.</h4>
   <h2>🛠 Skills</h2>
   <h4>Java, C#, Python, HTML & CSS ,Bash</h4>
   <h2>📫 How to reach me: </h2>
