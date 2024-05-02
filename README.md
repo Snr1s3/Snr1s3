@@ -9,7 +9,8 @@
   <h2>:rocket: My Coding Journey</h2>
   <h4 align="justify">I started my coding journey with Scratch, creating fun and interactive projects. It was a great introduction to the world of programming. 
   
-  Then, I ventured into game development with Unity. I loved the process of turning my ideas into playable games. Now, the journey continues as I delve deeper into the world of coding, learning new languages and technologies.
+  Then, I ventured into game development with Unity. I loved the process of turning my ideas into playable games. Now, the journey continues as I delve deeper into the world of coding, learning new languages and technologies. 
+  
   I'm excited about the endless possibilities that lie ahead. Stay tuned for more updates!</h4>
   <h2>📫 How to reach me: </h2>
   <h4 align="justify">You can connect with me on</h4>
