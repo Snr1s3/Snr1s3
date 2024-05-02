@@ -11,15 +11,13 @@
   <a href="https://www.linkedin.com/in/alba-segura-b91491299/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/>
   </a>
-  <h4>or send me an email at your-email@example.com</h4>
+  <h4>or send me an email at alba.segurallamas@gmail.com</h4>
   <h2>🛠 Skills</h2>
   <h4>Java, C#, Python, HTML & CSS ,Bash</h4>
- 
-  
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Snr1s3)](https://git.io/streak-stats)   
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snr1s3&langs_count=8)
+ 
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Snr1s3)](https://git.io/streak-stats)   
 </div> 
 
 
