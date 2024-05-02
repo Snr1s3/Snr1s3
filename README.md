@@ -29,8 +29,8 @@
     CSS ,
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>Bash, 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>MYSQL &
-    ORACLE DB</h4>
-  <p align="left">   </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>ORACLE DB</h4>
+  <p align="left">   </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer">    
   <h2>📊 Stats</h2>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snr1s3&langs_count=8)
