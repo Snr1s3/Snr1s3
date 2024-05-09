@@ -30,7 +30,7 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snr1s3&langs_count=8)
 
-  ![Github Profile](https://github-readme-stats.vercel.app/api?username=Snr1s3&title_color=DA7885&text_color=E1B2A2&show_icons=true&icon_color=BB8470&bg_color=170F0C&hide_border=true&locale=en&border_radius=5)  
+  (![Snr1s3's Stats](https://github-readme-stats.vercel.app/api?username=Snr1s3&theme=radical&show_icons=true&hide_border=false&count_private=true))  
  
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Snr1s3)
   
