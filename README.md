@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/>
   </a>
   <h4 >or send me an email at alba.segurallamas@gmail.com</h4>
+  <img src="https://komarev.com/ghpvc/?username=Snr1s3&style=flat-square" align="center" />
   <h2>🛠 Languages and Tools:</h2>
   <h4 >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> Linux, 
@@ -29,9 +30,6 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snr1s3&langs_count=8)
  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Snr1s3)](https://git.io/streak-stats)   
-</div> 
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Snr1s3&style=flat-square" align="center" />
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Snr1s3)](https://git.io/streak-stats)   
+  ![Github Profile](https://github-readme-stats.vercel.app/api?username=yingsonic&title_color=DA7885&text_color=E1B2A2&show_icons=true&icon_color=BB8470&bg_color=170F0C&hide_border=true&locale=en&border_radius=5=
 </div>  
