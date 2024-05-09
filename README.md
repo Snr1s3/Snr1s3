@@ -28,7 +28,7 @@
   <p align="left">   </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer">    
   <h2>📊 Stats</h2>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snr1s3&langs_count=8)
+  
   ![Snr1s3's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Snr1s3&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
   ![Snr1s3's Stats](https://github-readme-stats.vercel.app/api?username=Snr1s3&theme=radical&show_icons=true&hide_border=false&count_private=true)   
