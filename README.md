@@ -8,6 +8,14 @@
 |----------|----------|----------|-----|-----|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="55" height="55"/> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="55" height="55"/> |   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>| <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="55" height="55"/> |
 
+
+### Markup Languages:
+| HTML | CSS | JSON | XML |
+|-----|-----|-----|-----|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="json" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" alt="xml" width="55" height="55"/> |
+
+
+
 ### Tools for Data Manipulation:
 
 | MongoDB | MySQL | OracleDB | SQLite |
@@ -29,12 +37,6 @@
 |----------|----------|----------|----------|  
 |<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" alt="fedora" width="55" height="55"/>| <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/debian/debian-original.svg" alt="debian" width="55" height="55"/>| <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/windows/windows-original.svg" alt="windows" width="55" height="55"/> |
 
-
-
-
-<h4>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/> Linux,
-</h4>
 <h4>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/> HTML & 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/> CSS , 
