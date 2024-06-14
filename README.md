@@ -27,7 +27,7 @@
 
 | Linux | Fedora | Debian | Windows |  
 |----------|----------|----------|----------|  
-|<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" alt=fedora" width="55" height="55"/>| <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/debian/debian-original.svg" alt="debian" width="55" height="55"/>| <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/windows/windows-original.svg" alt="windows" width="55" height="55"/> |
+|<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" alt="fedora" width="55" height="55"/>| <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/debian/debian-original.svg" alt="debian" width="55" height="55"/>| <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/windows/windows-original.svg" alt="windows" width="55" height="55"/> |
 
 
 
