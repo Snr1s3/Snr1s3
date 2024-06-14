@@ -1,7 +1,8 @@
 
-<h1>Hello World!! 👋 </h1>
+<h1>Hello World!! 👋</h1>
 <h4>My name is Alba, an IT student at <img src="https://agora.xtec.cat/iticbcn/wp-content/uploads/usu2389/2023/06/Imagotipo-1.png" width=20> Intitut TIC Barcelona.</h4>
 
+<h1>🛠 Languages and Tools:</h1>
 
 ### Languages:
 | Python | Java | C# | Javascript | Bash |
