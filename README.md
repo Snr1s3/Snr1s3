@@ -1,10 +1,12 @@
 
 <h1>Hello World!! 👋</h1>
 
-<h2>🛠 About me:</h2>
+<h2>👨‍💻 About me:</h2>
+
 <h4>Hello world!
 
 My name is Alba, an IT student at <img src="https://agora.xtec.cat/iticbcn/wp-content/uploads/usu2389/2023/06/Imagotipo-1.png" width=20> Intitut TIC Barcelona.
+
 I'm an aspiring developer embarking on my exciting journey into the world of code.  I'm thrilled to be diving into this creative and problem-solving field, and I'm eager to learn everything I can about building the next generation of technology.
 
 Whether it's crafting user-friendly websites, developing innovative applications, or unraveling the mysteries of complex algorithms, I'm excited to see where this path takes me.  I'm a quick learner with a passion for innovation, and I'm always up for a challenge.
