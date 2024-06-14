@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3F6bGVtMmt4aDEzd28yYnZpY3VzbmM5bTY4bmZqazZoYzBrN3N0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11gC4odpiRKuha/giphy.gif" width="300"/>  
 </div>  
 <div id="badges" align="center">   
-  <h1>Bon Dia 👋 </h1>
+  <h1>Hello World!! 👋 </h1>
   <h4>My name is Alba, an IT student at <img src="https://agora.xtec.cat/iticbcn/wp-content/uploads/usu2389/2023/06/Imagotipo-1.png" width=20> Intitut TIC Barcelona.</h4>
   <h2>📫 How to reach me: </h2>
   <h4 >You can connect with me on</h4>
