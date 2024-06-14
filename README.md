@@ -44,6 +44,7 @@
 ![Snr1s3's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Snr1s3&theme=radical&show_icons=true&hide_border=false&langs_count=5)
 
 <h1>📊 Stats:</h1>
+
 ![Snr1s3's Stats](https://github-readme-stats.vercel.app/api?username=Snr1s3&theme=radical&show_icons=true&hide_border=false&count_private=true)   
 
 ![Snr1s3's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Snr1s3&theme=radical&hide_border=false)
