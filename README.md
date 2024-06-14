@@ -38,16 +38,12 @@
 |----------|----------|----------|----------|  
 |<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" alt="fedora" width="55" height="55"/>| <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/debian/debian-original.svg" alt="debian" width="55" height="55"/>| <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/windows/windows-original.svg" alt="windows" width="55" height="55"/> |
 
-<h4>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/> HTML & 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/> CSS , 
-  
-</h4> 
-<h2>📊 Stats</h2>
 
+<h1>📊 Languages Stats:</h1>
 
 ![Snr1s3's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Snr1s3&theme=radical&show_icons=true&hide_border=false&langs_count=5)
 
+<h1>📊 Stats:</h1>
 ![Snr1s3's Stats](https://github-readme-stats.vercel.app/api?username=Snr1s3&theme=radical&show_icons=true&hide_border=false&count_private=true)   
 
 ![Snr1s3's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Snr1s3&theme=radical&hide_border=false)
