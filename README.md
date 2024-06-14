@@ -1,18 +1,18 @@
 
 <h1>Hello World!! 👋</h1>
-<h4>My name is Alba, an IT student at <img src="https://agora.xtec.cat/iticbcn/wp-content/uploads/usu2389/2023/06/Imagotipo-1.png" width=20> Intitut TIC Barcelona.</h4>
 
-<h1>🛠 About me:</h1>
-Hello world!
+<h2>🛠 About me:</h2>
+<h4>Hello world!
 
+My name is Alba, an IT student at <img src="https://agora.xtec.cat/iticbcn/wp-content/uploads/usu2389/2023/06/Imagotipo-1.png" width=20> Intitut TIC Barcelona.
 I'm an aspiring developer embarking on my exciting journey into the world of code.  I'm thrilled to be diving into this creative and problem-solving field, and I'm eager to learn everything I can about building the next generation of technology.
 
 Whether it's crafting user-friendly websites, developing innovative applications, or unraveling the mysteries of complex algorithms, I'm excited to see where this path takes me.  I'm a quick learner with a passion for innovation, and I'm always up for a challenge.
 
-Stay tuned as I document my experiences, share my learnings, and hopefully, build some cool stuff along the way!  Feel free to reach out and connect -  I'm always interested in collaborating and learning from others in the dev community.
+Stay tuned as I document my experiences, share my learnings, and hopefully, build some cool stuff along the way!  Feel free to reach out and connect -  I'm always interested in collaborating and learning from others in the dev community.</h4>
 
 
-<h1>🛠 Languages and Tools:</h1>
+<h2>🛠 Languages and Tools:</h2>
 
 ### Languages:
 | Python | Java | C# | Javascript | Bash |
@@ -49,11 +49,11 @@ Stay tuned as I document my experiences, share my learnings, and hopefully, buil
 |<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" alt="fedora" width="55" height="55"/>| <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/debian/debian-original.svg" alt="debian" width="55" height="55"/>| <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/windows/windows-original.svg" alt="windows" width="55" height="55"/> |
 
 
-<h1>📊 Languages Stats:</h1>
+<h2>📊 Languages Stats:</h2>
 
 ![Snr1s3's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Snr1s3&theme=radical&show_icons=true&hide_border=false&langs_count=5)
 
-<h1>📊 Stats:</h1>
+<h2>📊 Stats:</h2>
 
 ![Snr1s3's Stats](https://github-readme-stats.vercel.app/api?username=Snr1s3&theme=radical&show_icons=true&hide_border=false&count_private=true)   
 
