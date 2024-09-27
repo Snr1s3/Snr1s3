@@ -17,8 +17,8 @@ Stay tuned as I document my experiences, share my learnings, and hopefully, buil
 <h2>🛠 Languages and Tools:</h2>
 
 ### Languages:
-| Python | Java | C | C# | Javascript | Bash |
-|----------|----------|----------|-----|-----|
+| Python | Java |  C  | C# | Javascript | Bash |
+|----------|----------|----------|----------|-----|-----|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="55" height="55"/> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="csharp" width="55" height="55"/> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="55" height="55"/> |   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>| <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="55" height="55"/> |
 
 
