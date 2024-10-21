@@ -29,7 +29,7 @@ Stay tuned as I document my experiences, share my learnings, and hopefully, buil
 
 
 
-### Tools for Data Manipulation:
+### Data Base   
 
 | MongoDB | MySQL | OracleDB | SQLite |
 |----------|----------|----------|----------|
