@@ -23,13 +23,13 @@ I'm gaining hands-on experience and sharpening my technical and problem-solving 
 ### 🗄️ Databases
 
 | MongoDB | MySQL | PostgreSQL |
-|---------|-------|----------|
+|---------|-------|------------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" alt="MongoDB"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" alt="MySQL"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL"/> |
 
 ### 🧪 Tools, Environments & Platforms
 
 | Git | Docker |  VirtualBox |
-|-----|--------|------------|
+|-----|--------|-------------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" alt="Git"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="50" alt="Docker"/> |<img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" width="50" alt="VirtualBox"/> |
 
 ### 💻 Operating Systems
@@ -51,16 +51,8 @@ I'm gaining hands-on experience and sharpening my technical and problem-solving 
 ---
 
 <h2>📊 GitHub Stats</h2>
+| Stats | Languages |
+|-------|-----------|
+| <img src="https://github-readme-stats.vercel.app/api?username=Snr1s3&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="Snr1s3's GitHub Stats"><br> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Snr1s3&theme=radical&show_icons=true&hide_border=false&langs_count=5" alt="Top Languages"> |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Snr1s3&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="Snr1s3's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snr1s3&theme=radical&show_icons=true&hide_border=false&langs_count=5" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snr1s3&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
-</p>
 
