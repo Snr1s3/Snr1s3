@@ -4,7 +4,7 @@
 
 <p align="justify">
 Hi there! I'm <strong>Alba</strong>, an <strong>Advanced Technician in Multiplatform Application Development</strong>, and I'm currently working as a <strong>Senior Assistant, Software Engineering at Kyndryl</strong> 
-<img src="https://companieslogo.com/img/orig/KD-f1c759cb.png?t=1720244492" alt="Kyndryl logo" width="100" style="vertical-align: middle;"/>.  
+<img src="https://companieslogo.com/img/orig/KD-f1c759cb.png?t=1720244492" alt="Kyndryl logo" width="50" style="vertical-align: middle;"/>.  
 I'm gaining hands-on experience and sharpening my technical and problem-solving skills every day.
 </p>
 
