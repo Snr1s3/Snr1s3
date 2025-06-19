@@ -5,7 +5,7 @@
 <p align="justify">
 Hi there! I'm <strong>Alba</strong>, an IT student at 
 <img src="https://agora.xtec.cat/iticbcn/wp-content/uploads/usu2389/2023/06/Imagotipo-1.png" width="20" alt="Institut TIC Barcelona logo"/> 
-<strong>Institut TIC Barcelona</strong>. I'm an aspiring developer diving headfirst into the world of code. I'm passionate about building innovative solutions and eager to keep growing in this dynamic, creative, and ever-evolving field.
+<strong>Institut TIC Barcelona</strong>. I'm an aspiring developer diving headfirst into the world of code. I'm passionate about building innovative solutions and eager to keep growing in this dynamic, creative, and ever-evolving field. I'm currently working as a <strong>Senior Assistant, Software Engineering on Kyndryl</strong>, where I’m gaining hands-on experience and sharpening my technical and problem-solving skills.
 </p>
 
 ---
