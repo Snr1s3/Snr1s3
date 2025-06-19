@@ -3,10 +3,11 @@
 <h2>👩‍💻 About Me</h2>
 
 <p align="justify">
-Hi there! I'm <strong>Alba</strong>, an <strong>Advanced Technician in Multiplatform Application Development</strong>, and I'm currently working as a <strong>Senior Assistant, Software Engineering at </strong> 
-<img src="https://indigenoustechnology.com.au/wp-content/uploads/2023/10/kyndryl.webp" alt="Kyndryl logo" width="100"/>.  
+Hi there! I'm <strong>Alba</strong>, an <strong>Advanced Technician in Multiplatform Application Development</strong>, and I'm currently working as a <strong>Senior Assistant, Software Engineering at Kyndryl</strong> 
+<img src="https://indigenoustechnology.com.au/wp-content/uploads/2023/10/kyndryl.webp" alt="Kyndryl logo" width="16" style="vertical-align: middle;"/>.  
 I'm gaining hands-on experience and sharpening my technical and problem-solving skills every day.
 </p>
+
 
 
 ---
