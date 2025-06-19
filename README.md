@@ -53,6 +53,6 @@ I'm gaining hands-on experience and sharpening my technical and problem-solving 
 <h2>📊 GitHub Stats</h2>
 | Stats | Languages |
 |-------|-----------|
-| <img src="https://github-readme-stats.vercel.app/api?username=Snr1s3&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="Snr1s3's GitHub Stats"><br> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Snr1s3&theme=radical&show_icons=true&hide_border=false&langs_count=5" alt="Top Languages"> |
+| <img src="https://github-readme-stats.vercel.app/api?username=Snr1s3&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="Snr1s3's GitHub Stats"><br> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Snr1s3&theme=radical&show_icons=true&hide_border=false&langs_count=5&layout=compact" alt="Top Languages"> |
 
 
