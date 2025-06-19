@@ -35,6 +35,16 @@ Hi there! I'm <strong>Alba</strong>, an IT student at
 | Linux | Fedora | Debian | Windows |
 |-------|--------|--------|---------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50" alt="Linux"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" width="50" alt="Fedora"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/debian/debian-original.svg" width="50" alt="Debian"/> | <img src="https://www.svgrepo.com/show/303223/microsoft-windows-22-logo.svg" width="50" alt="Windows"/> |
+---
+### 🌱 Currently Learning
+- Backend development (Go, )
+- Docker & DevOps essentials
+- Design Patterns & Clean Code principles
+
+### 📫 Let's Connect!
+- 🌐 [LinkedIn](https://www.linkedin.com/in/alba-segura-llamas-b91491299/)
+- 💌 Reach me at: alba.segurallamas@gmail.com
+
 
 ---
 
@@ -52,17 +62,3 @@ Hi there! I'm <strong>Alba</strong>, an IT student at
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snr1s3&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
----
-
-### 🌱 Currently Learning
-- Backend development (Go, )
-- Docker & DevOps essentials
-- Design Patterns & Clean Code principles
-
-### 📫 Let's Connect!
-- 🌐 [LinkedIn](https://www.linkedin.com/in/alba-segura-llamas-b91491299/)
-- 💌 Reach me at: alba.segurallamas@gmail.com
-
----
-
-⭐ *Thanks for stopping by! Feel free to check out my projects and connect!*  
