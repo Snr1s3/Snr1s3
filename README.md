@@ -47,12 +47,10 @@ I am passionate about learning new technologies.<br>
 
 ## 📊 Github Stats
 
-| Top Languages |
-|:---:|   
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Snr1s3&theme=radical&show_icons=true&hide_border=false&langs_count=4&layout=compact) |
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Snr1s3&theme=radical&show_icons=true&hide_border=false&langs_count=4&layout=compact)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Snr1s3&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Snr1s3&style=for-the-badge&color=ff69b4&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
