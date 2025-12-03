@@ -47,9 +47,8 @@ I am passionate about learning new technologies.<br>
 
 ## 📊 Github Stats
 
-| Stats | Top Languages |
-|:---:|:---:|
-| ![Snr1s3's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Snr1s3&theme=radical&show_icons=true&hide_border=false&count_private=true&layout=compact&cache_seconds=1800) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Snr1s3&theme=radical&show_icons=true&hide_border=false&langs_count=6&layout=compact) |
+| Top Languages |
+|:---:| | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Snr1s3&theme=radical&show_icons=true&hide_border=false&langs_count=6&layout=compact) |
 
 ---
 
