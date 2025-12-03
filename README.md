@@ -48,7 +48,8 @@ I am passionate about learning new technologies.<br>
 ## 📊 Github Stats
 
 | Top Languages |
-|:---:| | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Snr1s3&theme=radical&show_icons=true&hide_border=false&langs_count=6&layout=compact) |
+|:---:|   
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Snr1s3&theme=radical&show_icons=true&hide_border=false&langs_count=4&layout=compact) |
 
 ---
 
