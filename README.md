@@ -31,7 +31,7 @@ I am passionate about learning new technologies.<br>
 ---
 
 ### 🌱 Currently Learning
-- Backend development (Go)
+- Backend development (Go, CI/CD(Github Actions))
 - Docker & DevOps essentials
 - Design Patterns & Clean Code principles
 
