@@ -48,7 +48,6 @@ I am passionate about learning new technologies.<br>
 ## 📊 Github Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api?username=Snr1s3&theme=radical&show_icons=true&langs_count=4&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ---
 
