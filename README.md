@@ -14,7 +14,7 @@ I am passionate about learning new technologies.<br>
 <h2>🛠 Languages & Tools</h2>
 
 #### 👩‍💻 Programming Languages
-[![Programming Languages](https://skillicons.dev/icons?i=python,java,kotlin,go,bash,yaml&theme=dark)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=python,java,kotlin,go,bash,yml&theme=dark)](https://skillicons.dev)
 
 #### 🗄️ Databases
 [![Databases](https://skillicons.dev/icons?i=mongo,mysql,postgresql&theme=dark)](https://skillicons.dev)
