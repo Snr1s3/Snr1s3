@@ -37,7 +37,7 @@ problem-solving skills every day.
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/alba-segura-llamas-b91491299/)
-- [Portfolio](https://asegura.dev)
+- [Portfolio](https://albasegura.dev)
 - [Email](mailto:alba.segurallamas@gmail.com)
 
 ## GitHub Stats
